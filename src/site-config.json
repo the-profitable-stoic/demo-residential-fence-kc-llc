@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Residential Fence KC llc",
+    "phone": "+19138000968",
+    "category": "fence company",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Kansas City's Fence Authority",
+      "heroSubline": "Durable fences built to withstand Missouri's toughest weather. Expert installation, lasting value.",
+      "aboutTitle": "Built on Integrity, Rooted in Kansas City",
+      "aboutText": [
+        "Residential Fence KC was founded over a decade ago by lifelong Kansas City residents who saw a need for reliable, high-quality fencing services. We started small, focusing on exceeding customer expectations one project at a time. Today, we're proud to be a leading fence contractor in the metro area.",
+        "Our approach is simple: treat every project like it's for our own home. We use only premium materials, employ skilled craftsmen, and maintain open communication throughout the entire process. We believe in doing the job right the first time, ensuring your fence provides lasting security and beauty.",
+        "We're committed to giving back to the community that has supported us. We actively participate in local initiatives and donate a portion of our profits to organizations that serve families in need across Kansas City. We believe in building strong fences and strong communities."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Kansas City's unique climate and soil conditions, ensuring a fence built to last."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We use only the highest-quality wood, vinyl, and metal to create durable and beautiful fences."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team provides precise and efficient installation, minimizing disruption and maximizing longevity."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, detailed quotes with no hidden fees, so you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Fence Estimate Today!",
+      "ctaSubline": "Protect your property and enhance its value with a professionally installed fence. Contact us now for a no-obligation consultation."
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences built to withstand Kansas City's weather.",
+        "description": "Wood fences offer timeless appeal and natural beauty, providing privacy and security for your Kansas City property. We specialize in constructing durable wood fences using pressure-treated lumber that stands up to Missouri's harsh winters and humid summers. From traditional picket fences to privacy fences, we tailor each installation to your specific needs and property lines. We handle everything from permits to post setting, ensuring a seamless and stress-free experience. Our expert team understands the importance of proper drainage and soil stabilization to prevent warping and rot, ensuring your wood fence lasts for years to come. We offer a variety of wood types and staining options to complement your home's aesthetic. Let Residential Fence KC create a beautiful and functional wood fence that enhances your property's value and curb appeal.",
+        "process": [
+          "Step 1: Site evaluation and design consultation",
+          "Step 2: Material selection and permit acquisition",
+          "Step 3: Precise post setting and framing",
+          "Step 4: Board installation and finishing"
+        ],
+        "benefits": [
+          "Enhanced privacy and security",
+          "Increased property value",
+          "Natural aesthetic appeal",
+          "Customizable designs"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in Kansas City's climate?",
+            "answer": "With proper maintenance and quality materials, a wood fence can last 15-20 years in Kansas City. Pressure-treated lumber and regular staining are crucial for longevity."
+          },
+          {
+            "question": "What type of wood is best for fences in this area?",
+            "answer": "Pressure-treated pine is a cost-effective and durable option. Cedar is a naturally insect-resistant wood that provides a beautiful aesthetic."
+          },
+          {
+            "question": "Do I need a permit to build a wood fence in Kansas City?",
+            "answer": "Yes, most residential fence projects require a permit. We handle the permit acquisition process for you, ensuring compliance with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences for lasting beauty and durability in Kansas City.",
+        "description": "Vinyl fences offer exceptional durability and low maintenance, making them a popular choice for Kansas City homeowners. Unlike wood, vinyl fences won't rot, warp, or require painting, saving you time and money in the long run. We install high-quality vinyl fences that are resistant to fading, cracking, and impact damage, ensuring they look great for years to come. Our experienced team expertly installs vinyl fences, paying close attention to detail to ensure proper alignment and stability. We offer a wide range of styles and colors to complement your home's architecture and landscaping. Whether you're looking for a classic picket fence, a privacy fence, or a decorative accent, we can create a custom vinyl fence solution that meets your needs. Invest in a durable and beautiful vinyl fence from Residential Fence KC and enjoy years of worry-free enjoyment.",
+        "process": [
+          "Step 1: Site assessment and design selection",
+          "Step 2: Precise post placement and setting",
+          "Step 3: Panel installation and securing",
+          "Step 4: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Low maintenance and easy to clean",
+          "Exceptional durability and longevity",
+          "Resistant to rot, warping, and pests",
+          "Wide range of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "A high-quality vinyl fence can last 30 years or more with minimal maintenance. It's a very durable and long-lasting option."
+          },
+          {
+            "question": "Will a vinyl fence fade in the sun?",
+            "answer": "Our vinyl fences are made with UV inhibitors to prevent fading and discoloration. They will retain their color for many years."
+          },
+          {
+            "question": "Is a vinyl fence more expensive than a wood fence?",
+            "answer": "The initial cost of a vinyl fence may be higher than a wood fence, but the long-term cost is often lower due to reduced maintenance requirements."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fence-installation",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Affordable and secure chain link fences for residential and commercial properties.",
+        "description": "Chain link fences provide a cost-effective and reliable security solution for residential and commercial properties in Kansas City. We offer professional chain link fence installation services, using high-quality materials and expert techniques to ensure a durable and long-lasting fence. Our team can customize your chain link fence to meet your specific needs, including different heights, gauges, and coatings. We also offer options for adding privacy slats or gates to enhance security and functionality. Whether you need a fence for your backyard, a commercial property, or a pet enclosure, we can provide a chain link fence solution that meets your budget and requirements. Trust Residential Fence KC for reliable and affordable chain link fence installation services.",
+        "process": [
+          "Step 1: Property survey and layout planning",
+          "Step 2: Post installation and setting in concrete",
+          "Step 3: Mesh installation and tensioning",
+          "Step 4: Gate installation and hardware fitting"
+        ],
+        "benefits": [
+          "Affordable security solution",
+          "Durable and long-lasting",
+          "Customizable to meet specific needs",
+          "Low maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How much does a chain link fence cost?",
+            "answer": "The cost of a chain link fence depends on the height, gauge, and length. We offer free estimates to provide you with an accurate price quote."
+          },
+          {
+            "question": "Can I add privacy to a chain link fence?",
+            "answer": "Yes, you can add privacy slats to a chain link fence to increase privacy and reduce visibility."
+          },
+          {
+            "question": "What is the lifespan of a chain link fence?",
+            "answer": "A properly installed chain link fence can last 20-30 years with minimal maintenance."
+          }
+        ]
+      },
+      {
+        "slug": "ornamental-metal-fence-installation",
+        "name": "Ornamental Metal Fence Installation",
+        "shortDescription": "Elegant ornamental metal fences that add beauty and security to your property.",
+        "description": "Ornamental metal fences offer a sophisticated and elegant look while providing security and boundary definition for your Kansas City home. We specialize in installing high-quality ornamental metal fences that enhance your property's curb appeal and provide lasting value. Our team works with a variety of styles and materials, including wrought iron and aluminum, to create custom fence designs that complement your home's architecture. We handle every aspect of the installation process, from site preparation to post setting and final finishing, ensuring a seamless and professional result. Whether you're looking to enhance your garden, secure your pool, or add a touch of elegance to your property, we can create an ornamental metal fence that meets your needs. Choose Residential Fence KC for exceptional craftsmanship and attention to detail.",
+        "process": [
+          "Step 1: Design consultation and material selection",
+          "Step 2: Site preparation and layout",
+          "Step 3: Post installation and concrete setting",
+          "Step 4: Panel and gate installation"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased property value",
+          "Security and boundary definition",
+          "Customizable designs"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between wrought iron and aluminum fences?",
+            "answer": "Wrought iron is a heavier and stronger material, while aluminum is lighter and more resistant to rust. Both offer a beautiful and durable fencing option."
+          },
+          {
+            "question": "Can I customize the design of my ornamental metal fence?",
+            "answer": "Yes, we offer a wide range of customization options, including different styles, colors, and decorative elements."
+          },
+          {
+            "question": "How much does an ornamental metal fence cost?",
+            "answer": "The cost of an ornamental metal fence depends on the material, style, and size. We provide free estimates to help you plan your project."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair-and-maintenance",
+        "name": "Fence Repair & Maintenance",
+        "shortDescription": "Keep your fence in top condition with our expert repair and maintenance services.",
+        "description": "Kansas City's weather can take a toll on your fence, leading to damage and deterioration. Residential Fence KC offers comprehensive fence repair and maintenance services to keep your fence in top condition. We handle everything from minor repairs to major overhauls, ensuring your fence provides lasting security and beauty. Our experienced technicians can repair broken posts, replace damaged boards, fix sagging gates, and address any other issues affecting your fence. We also offer regular maintenance services, such as staining, sealing, and cleaning, to protect your fence from the elements and extend its lifespan. Don't let a damaged or neglected fence detract from your property's value and curb appeal. Contact Residential Fence KC for reliable and affordable fence repair and maintenance services.",
+        "process": [
+          "Step 1: Thorough fence inspection",
+          "Step 2: Detailed repair plan and cost estimate",
+          "Step 3: Repair or replacement of damaged components",
+          "Step 4: Sealing, staining, or painting as needed"
+        ],
+        "benefits": [
+          "Extends the lifespan of your fence",
+          "Maintains property value and curb appeal",
+          "Prevents further damage and costly repairs",
+          "Ensures security and safety"
+        ],
+        "faq": [
+          {
+            "question": "How often should I maintain my fence?",
+            "answer": "We recommend inspecting your fence at least once a year and performing maintenance as needed. Regular staining or sealing can significantly extend its lifespan."
+          },
+          {
+            "question": "What are the signs that my fence needs repair?",
+            "answer": "Common signs include broken posts, leaning sections, sagging gates, and rotting wood."
+          },
+          {
+            "question": "Can you match the existing stain or paint color on my fence?",
+            "answer": "Yes, we can match almost any stain or paint color to ensure a seamless repair."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-and-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and stylish gates for your fence, expertly installed and repaired.",
+        "description": "A properly functioning gate is essential for security, convenience, and curb appeal. Residential Fence KC offers professional gate installation and repair services for residential and commercial properties in Kansas City. We install a wide range of gate styles, including swinging gates, sliding gates, and automated gates, to meet your specific needs and preferences. Our experienced team ensures precise installation and smooth operation, paying close attention to detail to ensure your gate is secure and reliable. We also offer gate repair services, addressing issues such as sagging, sticking, and broken hardware. Whether you need a new gate installed or your existing gate repaired, we can provide a solution that meets your budget and requirements. Trust Residential Fence KC for expert gate installation and repair services.",
+        "process": [
+          "Step 1: Site evaluation and gate selection",
+          "Step 2: Post installation and alignment",
+          "Step 3: Gate installation and hardware fitting",
+          "Step 4: Adjustment and testing"
+        ],
+        "benefits": [
+          "Enhanced security and privacy",
+          "Improved convenience and accessibility",
+          "Increased property value",
+          "Customizable designs"
+        ],
+        "faq": [
+          {
+            "question": "What type of gate is best for my property?",
+            "answer": "The best type of gate depends on your needs, preferences, and property layout. We can help you choose the right gate style for your situation."
+          },
+          {
+            "question": "Can you automate my existing gate?",
+            "answer": "Yes, we can automate most existing gates by installing an electric gate opener and access control system."
+          },
+          {
+            "question": "How much does gate repair cost?",
+            "answer": "The cost of gate repair depends on the extent of the damage. We offer free estimates to provide you with an accurate price quote."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-fencing-services",
+        "name": "Commercial Fencing Services",
+        "shortDescription": "Secure your business with our durable and reliable commercial fencing solutions.",
+        "description": "Residential Fence KC extends its expertise to commercial properties throughout Kansas City, providing robust and reliable fencing solutions tailored to your specific business needs. We understand the importance of security, safety, and aesthetics for your commercial property, and we offer a wide range of fencing options to meet those needs. From chain link fences for perimeter security to ornamental metal fences for a professional look, we can design and install a fence that protects your assets and enhances your property's value. Our experienced team works efficiently and professionally, minimizing disruption to your business operations. We also offer repair and maintenance services to keep your commercial fence in top condition. Trust Residential Fence KC for comprehensive commercial fencing services.",
+        "process": [
+          "Step 1: Site assessment and security needs analysis",
+          "Step 2: Fence design and material selection",
+          "Step 3: Permitting and compliance",
+          "Step 4: Professional installation and quality assurance"
+        ],
+        "benefits": [
+          "Enhanced security and safety",
+          "Increased property value",
+          "Professional appearance",
+          "Compliance with local regulations"
+        ],
+        "faq": [
+          {
+            "question": "What are the common types of commercial fences?",
+            "answer": "Common types include chain link, ornamental metal, vinyl, and wood fences, each offering different levels of security and aesthetics."
+          },
+          {
+            "question": "Do I need a permit for a commercial fence?",
+            "answer": "Yes, most commercial fence projects require a permit. We handle the permit acquisition process for you."
+          },
+          {
+            "question": "How can I maintain my commercial fence?",
+            "answer": "Regular inspections, cleaning, and repairs can help extend the lifespan of your commercial fence."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Residential Fence KC LLC is proud to offer our expert fence installation and repair services to the residents of Overland Park, Missouri. We understand the unique needs of this thriving community, known for its established 1970s-90s suburbs and family-friendly atmosphere. Whether you're looking to enhance your property's curb appeal, secure your backyard for children and pets, or add privacy with a stylish new fence, our team is here to help.\n\nWe are well-versed in the challenges posed by Overland Park's climate, especially the cold winters and occasional ice storms. Our fences are built to withstand the elements, ensuring long-lasting beauty and functionality. From traditional wood fences to durable vinyl and ornamental steel, we offer a wide range of materials and styles to complement your home's architecture and meet your specific needs. We handle all permitting and inspections to ensure a hassle-free experience.",
+        "localContext": "Overland Park is a large suburban city known for its well-maintained neighborhoods, excellent schools, and numerous parks and recreational opportunities.",
+        "nearbyAreas": [
+          "Leawood",
+          "Lenexa",
+          "Prairie Village"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Residential Fence KC LLC is delighted to provide top-quality fence services to the growing community of Olathe, Missouri. With its many family developments built from the 1980s through the 2000s, Olathe is a place where families value safety, security, and a strong sense of community. We understand these priorities and offer a wide selection of fences designed to enhance your property and provide peace of mind.\n\nOur team is experienced in building fences that can hold up against Olathe's cold winters and ice storms. Whether you need a privacy fence to create a backyard retreat, a decorative fence to add character to your property, or a sturdy fence to keep your pets safe, we have the expertise and materials to meet your needs. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Olathe is a family-oriented city with a strong sense of community, numerous parks, and a growing economy.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Gardner",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Residential Fence KC LLC proudly serves the residents of Lee's Summit, Missouri, with our professional fence installation and repair services. Lee's Summit is characterized by its established 1970s-90s family homes and a strong sense of community. We understand the importance of creating a safe and beautiful outdoor space for your family to enjoy.\n\nWe are familiar with the challenges posed by Lee's Summit's climate, including cold winters and the potential for ice storms. Our fences are built to withstand these conditions, ensuring long-lasting performance and visual appeal. From classic wood fences to low-maintenance vinyl and elegant ornamental steel, we offer a variety of options to complement your home's style and meet your specific needs. We handle all aspects of the project, from initial consultation to final installation, ensuring a smooth and stress-free experience.",
+        "localContext": "Lee's Summit is a large suburban city known for its excellent schools, beautiful parks, and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Raytown",
+          "Grandview"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "Residential Fence KC LLC provides top-notch fence installation and repair services throughout Kansas City, Missouri. As a diverse and vibrant city, Kansas City has a wide range of neighborhoods, each with its own unique character and architectural styles. We understand the importance of selecting a fence that complements your home's design and meets the specific needs of your property.\n\nOur experienced team is equipped to handle any fencing project, from small residential repairs to large-scale commercial installations. We offer a wide variety of materials, including wood, vinyl, chain link, and ornamental steel, to suit your budget and aesthetic preferences. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Kansas City is a major metropolitan area with a rich history, diverse culture, and thriving arts scene.",
+        "nearbyAreas": [
+          "Independence",
+          "Gladstone",
+          "Liberty"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Residential Fence KC LLC is dedicated to serving the residents of Independence, Missouri, with our expert fence installation and repair services. Independence boasts a rich history and a strong sense of community. We recognize the importance of selecting a fence that enhances your property's value and provides security for your family.\n\nWe offer a wide range of fencing options to suit your needs and budget, including wood, vinyl, chain link, and ornamental steel. Our experienced team will work closely with you to design and install a fence that meets your specific requirements and complements your home's style. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Independence is a historic city with a strong sense of community and a rich heritage.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Blue Springs",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Residential Fence KC LLC is proud to offer our professional fence installation and repair services to the residents of Blue Springs, Missouri. Blue Springs is a growing community with a strong family focus. We understand the importance of creating a safe and secure outdoor space for your loved ones to enjoy.\n\nWe offer a wide range of fencing options to meet your specific needs, including privacy fences, picket fences, chain link fences, and ornamental fences. Our experienced team will work with you to design and install a fence that complements your home's style and provides the security and privacy you desire. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Blue Springs is a family-friendly city with excellent schools, numerous parks, and a growing economy.",
+        "nearbyAreas": [
+          "Lee's Summit",
+          "Independence",
+          "Grain Valley"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "Residential Fence KC LLC is pleased to provide top-quality fence services to the residents of Lenexa, Missouri. Lenexa is a thriving community known for its business-friendly environment and high quality of life. We understand the importance of selecting a fence that enhances your property's value and provides security for your family or business.\n\nWe offer a wide range of fencing options to suit your needs and budget, including wood, vinyl, chain link, and ornamental steel. Our experienced team will work closely with you to design and install a fence that meets your specific requirements and complements your property's style. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Lenexa is a business-friendly city with a high quality of life and a strong sense of community.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Olathe",
+          "Shawnee"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-mo",
+        "state": "MO",
+        "content": "Residential Fence KC LLC is dedicated to serving the residents of Shawnee, Kansas, with our expert fence installation and repair services. Shawnee is a vibrant community with a rich history and a strong sense of community. We understand the importance of selecting a fence that enhances your property's value and provides security for your family.\n\nWe offer a wide range of fencing options to suit your needs and budget, including wood, vinyl, chain link, and ornamental steel. Our experienced team will work closely with you to design and install a fence that meets your specific requirements and complements your home's style. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Shawnee is a historic city with a strong sense of community and a thriving local economy.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Lenexa",
+          "Kansas City"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "We needed a new fence after a storm, and Residential Fence KC was fantastic. They quickly assessed the damage, gave us a fair quote, and installed a beautiful, sturdy wood fence. The crew was professional and cleaned up everything perfectly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Chain Link Fence Installation",
+        "text": "Got a chain link fence installed for my dog run. The price was competitive, and the installation was quick. There was a small issue with the gate latch, but they came back the next day and fixed it right away. Good service.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Maria L.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "I love my new vinyl fence! It looks amazing and requires no maintenance. The Residential Fence KC team was very helpful in choosing the right style and color to match my house. The installation was seamless, and they were very respectful of my property.",
+        "date": "2025-04-18"
+      },
+      {
+        "name": "David K.",
+        "rating": 5,
+        "service": "Fence Repair & Maintenance",
+        "text": "My old wood fence was starting to fall apart. Residential Fence KC came out and repaired the damaged sections, stained the entire fence, and made it look brand new again. They saved me a lot of money compared to replacing the whole thing. Excellent work!",
+        "date": "2025-05-05"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Gate Installation & Repair",
+        "text": "We had a new gate installed to secure our backyard, and the crew at Residential Fence KC was great. They were on time, professional, and the gate looks great. Installation was quick and clean. Would use again.",
+        "date": "2025-05-20"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "From start to finish this company was top-notch. They did a great job removing our old, dilapidated fence and installing a brand new privacy fence. The crew was polite and professional. Would highly recommend them to anyone looking for fence work!",
+        "date": "2025-06-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Residential Fence KC | Kansas City Fence Company",
+        "description": "Expert fence installation & repair in Kansas City. Wood, vinyl, chain link, and more. Free quotes! Call +19138000968"
+      },
+      "about": {
+        "title": "About Residential Fence KC | Kansas City MO",
+        "description": "Learn about Residential Fence KC, a trusted fence company serving Kansas City. Quality craftsmanship & reliable service."
+      },
+      "services": {
+        "title": "Kansas City Fence Services | Residential Fence KC",
+        "description": "Comprehensive fence services in Kansas City, MO. Installation, repair, wood, vinyl, chain link fences. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Residential Fence KC | Kansas City MO",
+        "description": "Contact Residential Fence KC for fence installation & repair in Kansas City. Call +19138000968 or request a free quote online."
+      },
+      "reviews": {
+        "title": "Residential Fence KC Reviews | Kansas City Fencing",
+        "description": "Read reviews for Residential Fence KC in Kansas City. See what our satisfied customers say about our fence installation & repair services."
+      },
+      "service-areas": {
+        "title": "Residential Fence KC Service Areas | Kansas City",
+        "description": "Residential Fence KC provides fence services in Kansas City and surrounding areas. Serving Overland Park, Olathe, Lee's Summit."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "chain-link-fence-installation": "/images/service-chain-link-fence-installation.webp",
+      "ornamental-metal-fence-installation": "/images/service-ornamental-metal-fence-installation.webp",
+      "fence-repair-and-maintenance": "/images/service-fence-repair-and-maintenance.webp",
+      "gate-installation-and-repair": "/images/service-gate-installation-and-repair.webp",
+      "commercial-fencing-services": "/images/service-commercial-fencing-services.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fence-installation": {
+        "src": "/images/service-chain-link-fence-installation.webp",
+        "srcset": "/images/service-chain-link-fence-installation-400w.webp 400w, /images/service-chain-link-fence-installation-800w.webp 800w, /images/service-chain-link-fence-installation-1200w.webp 1200w, /images/service-chain-link-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ornamental-metal-fence-installation": {
+        "src": "/images/service-ornamental-metal-fence-installation.webp",
+        "srcset": "/images/service-ornamental-metal-fence-installation-400w.webp 400w, /images/service-ornamental-metal-fence-installation-800w.webp 800w, /images/service-ornamental-metal-fence-installation-1200w.webp 1200w, /images/service-ornamental-metal-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair-and-maintenance": {
+        "src": "/images/service-fence-repair-and-maintenance.webp",
+        "srcset": "/images/service-fence-repair-and-maintenance-400w.webp 400w, /images/service-fence-repair-and-maintenance-800w.webp 800w, /images/service-fence-repair-and-maintenance-1200w.webp 1200w, /images/service-fence-repair-and-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-and-repair": {
+        "src": "/images/service-gate-installation-and-repair.webp",
+        "srcset": "/images/service-gate-installation-and-repair-400w.webp 400w, /images/service-gate-installation-and-repair-800w.webp 800w, /images/service-gate-installation-and-repair-1200w.webp 1200w, /images/service-gate-installation-and-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-fencing-services": {
+        "src": "/images/service-commercial-fencing-services.webp",
+        "srcset": "/images/service-commercial-fencing-services-400w.webp 400w, /images/service-commercial-fencing-services-800w.webp 800w, /images/service-commercial-fencing-services-1200w.webp 1200w, /images/service-commercial-fencing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
